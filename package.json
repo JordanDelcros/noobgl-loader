@@ -1,0 +1,20 @@
+{
+  "name": "noobgl-loader",
+  "version": "0.0.1",
+  "description": "Assets loader and reader designed for noobgl",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanDelcros/noobgl-loader.git"
+  },
+  "keywords": [
+    "loader",
+    "obj"
+  ],
+  "author": "Jordan Delcros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JordanDelcros/noobgl-loader/issues"
+  },
+  "homepage": "https://github.com/JordanDelcros/noobgl-loader#readme"
+}
