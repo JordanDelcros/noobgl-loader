@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JordanDelcros/noobgl-loader.git"
+    "url": "git+https://github.com/noobgl/noobgl-loader.git"
   },
   "keywords": [
     "loader",
@@ -14,7 +14,7 @@
   "author": "Jordan Delcros",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JordanDelcros/noobgl-loader/issues"
+    "url": "https://github.com/noobgl/noobgl-loader/issues"
   },
-  "homepage": "https://github.com/JordanDelcros/noobgl-loader#readme"
+  "homepage": "https://github.com/noobgl/noobgl-loader#readme"
 }
